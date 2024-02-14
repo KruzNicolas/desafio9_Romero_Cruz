@@ -5,4 +5,4 @@
 
 - ✅ Add winston to have a logger
 - ✅ Add highest logs in important points of the server
-- ✅ Create an endpoint /loggerTest who let test all logs
+- ✅ Create an endpoint /logger who let test all logs
